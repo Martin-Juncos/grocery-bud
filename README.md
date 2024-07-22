@@ -79,7 +79,7 @@ El proyecto utiliza JavaScript para manejar la interacción del usuario y actual
 
 Para modificar el comportamiento de la aplicación Grocery Bud, puedes cambiar el código JavaScript. También puedes modificar el CSS y el HTML para cambiar la apariencia de la página y de los ítems de la lista.
 
-                     ©ProfMartinJuncos2024
+                     ©ProfMartinJuncos24
 
 ```
 
